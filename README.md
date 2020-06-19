@@ -9,5 +9,5 @@ The classic 2d snake game made with HTML Canvas and JavaScipt, [play and enjoy!]
 * You loses when the snake runs into its tail
 
 <p align="center">
-This project is licensed under the terms of the [MIT license](https://github.com/edi-jr/snake-game/blob/master/LICENSE).
+This project is licensed under the terms of the <a href="https://github.com/edi-jr/snake-game/blob/master/LICENSE">MIT license</a>.
 </p>
