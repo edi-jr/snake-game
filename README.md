@@ -1,13 +1,17 @@
-<h1 align="center">Snake Game</h1>
+<h1 align="center">:snake: Snake Game</h1>
+
+<p align="center">
+  <img src="https://github.com/edi-jr/snake-game/blob/master/assets/images/screenshot.png" alt="game screenshot">
+</p>
 
 The classic 2d snake game made with HTML Canvas and JavaScipt, [play and enjoy!](https://edi-jr.github.io/snake-game/)
 
-## How to play
+## :question: How to play
 
-* Use the arrow or W, A, S, D keys on your keyboard to control the snake.
-* Eat the apples to grow larger and earn points
-* You loses when the snake runs into its tail
+- Use both arrow keys or WASD on your keyboard to control the snake;
+- Eat the apples to grow larger and earn points;
+- The game ends when the snake runs into its own tail.
 
-## License
+## :copyright: License
 
 This project is licensed under the terms of the [MIT license](LICENSE).
